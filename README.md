@@ -28,6 +28,7 @@ I hold a Master’s degree in Information Technologies, which enables me to thin
 ## My contacts
 
 [LinkedIn](https://www.linkedin.com/in/nataliapanchenko/) 🔗
+
 [Email](mailto:nataliipanchenko@gmail.com) 📬
 
 ---
