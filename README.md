@@ -10,11 +10,8 @@ Here I share my learning projects, experiments, and progress on my journey into 
 ## Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript
-
 **Frameworks:** React (learning)
-
 **Tools:** Git, GitHub, VS Code, Chrome DevTools
-
 **Backend (upcoming):** Node.js, APIs, basic databases
 
 ## Background
@@ -27,4 +24,4 @@ I hold a Master’s degree in Information Technologies, which enables me to thin
 
 ---
 
-![frontend image](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/frontend-development-tools.png) 
+![frontend image](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)
