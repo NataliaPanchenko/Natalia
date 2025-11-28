@@ -1,6 +1,6 @@
 # Hi, i'm Natalia 👋
 
-<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="50%" alt="frontend image">
+<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="40%" alt="frontend image">
 
 ## About me
 
