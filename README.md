@@ -1,4 +1,4 @@
-# Hi, i'm Natalia 👋🏻
+# Hi, i'm Natalia 👋
 
 ## About me
 
