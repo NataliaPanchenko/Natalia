@@ -17,6 +17,10 @@ Here I share my learning projects, experiments, and progress on my journey into 
 
 **Backend (upcoming):** Node.js, APIs, basic databases
 
+## Current Projects
+
+- Personal Portfolio – in progress
+
 ## Background
 
 I hold a Master’s degree in Information Technologies, which enables me to think analytically, structure complex problems, and build solutions with security and reliability in mind.
