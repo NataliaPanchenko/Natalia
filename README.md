@@ -19,7 +19,7 @@ Here I share my learning projects, experiments, and progress on my journey into 
 
 ## Current Projects
 
-- Personal Portfolio – in progress
+- Personal Portfolio 💻 – in progress
 
 ## Background
 
