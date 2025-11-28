@@ -1,21 +1,15 @@
 # Hi, i'm Natalia 👋🏻
 
----
-
-### About me
-
----
+## About me
 
 I'm a beginner Web Developer.
 
 I enjoy building clean, user-friendly interfaces and constantly improving my skills in HTML, CSS, JavaScript, Node.js and React.
 Here I share my learning projects, experiments, and progress on my journey into front-end development.
 
-### My contacts
+## My contacts
 
----
-
-📎[LinkedIn](https://www.linkedin.com/in/nataliapanchenko/)
+-📎[LinkedIn](https://www.linkedin.com/in/nataliapanchenko/)
 
 ---
 
