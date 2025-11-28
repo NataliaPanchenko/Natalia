@@ -9,10 +9,13 @@ Here I share my learning projects, experiments, and progress on my journey into 
 
 ## Tech Stack
 
--**Frontend:** HTML, CSS, JavaScript
--**Frameworks:** React (learning)
--**Tools:** Git, GitHub, VS Code, Chrome DevTools
--**Backend (upcoming):** Node.js, APIs, basic databases
+**Frontend:** HTML, CSS, JavaScript
+
+**Frameworks:** React (learning)
+
+**Tools:** Git, GitHub, VS Code, Chrome DevTools
+
+**Backend (upcoming):** Node.js, APIs, basic databases
 
 ## Background
 
