@@ -10,7 +10,7 @@ Here I share my learning projects, experiments, and progress on my journey into 
 ### 📎 My contacts
 [My LinkedIn](https://www.linkedin.com/in/nataliapanchenko/)
 
-![frontend image]([https://www.mindinventory.com/blog/wp-content/uploads/2022/10/frontend-development-tools.png](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/frontend-development-tools.png))
+![frontend image](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/frontend-development-tools.png](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/frontend-development-tools.png)
 
 
 
