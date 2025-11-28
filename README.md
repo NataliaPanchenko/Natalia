@@ -26,10 +26,9 @@ Here I share my learning projects, experiments, and progress on my journey into 
 I hold a Master’s degree in Information Technologies, which enables me to think analytically, structure complex problems, and build solutions with security and reliability in mind.
 
 ## My contacts
+🔗 [LinkedIn](https://www.linkedin.com/in/nataliapanchenko/) 
 
-[LinkedIn](https://www.linkedin.com/in/nataliapanchenko/) 🔗
-
-[Email](mailto:nataliipanchenko@gmail.com) 📬
+📬 [Email](mailto:nataliipanchenko@gmail.com) 
 
 ---
 
