@@ -10,11 +10,8 @@ Here I share my learning projects, experiments, and progress on my journey into 
 # Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript
-
 **Frameworks:** React
-
 **Tools:** Git, GitHub, VS Code, Chrome DevTools
-
 **Backend (upcoming):** Node.js, APIs, basic databases
 
 # Current Projects
@@ -27,8 +24,8 @@ I hold a Master’s degree in Information Technologies, which enables me to thin
 
 # My contacts
 
-- [LinkedIn](https://www.linkedin.com/in/nataliapanchenko/) 🔗
-- [Email](mailto:nataliipanchenko@gmail.com) 📬
+[LinkedIn](https://www.linkedin.com/in/nataliapanchenko/) 🔗
+[Email](mailto:nataliipanchenko@gmail.com) 📬
 
 ---
 
