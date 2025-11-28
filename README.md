@@ -9,7 +9,7 @@ Here I share my learning projects, experiments, and progress on my journey into 
 
 ## My contacts
 
--📎[LinkedIn](https://www.linkedin.com/in/nataliapanchenko/)
+📎[LinkedIn](https://www.linkedin.com/in/nataliapanchenko/)
 
 ---
 
