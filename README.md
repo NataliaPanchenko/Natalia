@@ -11,7 +11,7 @@ Here I share my learning projects, experiments, and progress on my journey into 
 
 **Frontend:** HTML, CSS, JavaScript
 
-**Frameworks:** React (learning)
+**Frameworks:** React
 
 **Tools:** Git, GitHub, VS Code, Chrome DevTools
 
